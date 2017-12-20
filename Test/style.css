@@ -60,6 +60,7 @@ header {
 .carousel {
     width: 77%;
     margin: auto;
+    margin-bottom:3%;
     padding-bottom: 3%;
     /*position:relative;*/
 }
